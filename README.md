@@ -83,20 +83,20 @@
 
 ### 📜 Certifications
 
-- 🎓 Introduction to Flutter — *Simplilearn*
-- 🎓 Prompt Engineering with GitHub Copilot — *Simplilearn (Microsoft Partner)*
+- 🎓 [Introduction to Flutter](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIyMjk3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODgzMjIxN18zMDYyODg0MTc1NTgxMDIyODkxMy5wbmciLCJ1c2VybmFtZSI6Ik11aGFtbWFkIEF3YWlzIFNoYXVrYXQgIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4951%2FIntroduction%2520to%2520Flutter%2520Course%2520Online%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1487126352573743108&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVT64MjUw1Ti03DEuyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAFUHZI5BAAAA) — *Simplilearn*
+- 🎓 [Prompt Engineering with GitHub Copilot](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NzU3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODgzMDQ3MV85MjEzMzk0MTc1NTc4OTgyNjgzMi5wbmciLCJ1c2VybmFtZSI6Ik11aGFtbWFkIEF3YWlzIFNoYXVrYXQifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F7750%2FIntroduction%2520to%2520Prompt%2520Engineering%2520with%2520GitHub%2520Copilot%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1487126352573743108&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVL7T0qkpyLk0yDEuyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAP9dccpBAAAA) — *Simplilearn (Microsoft Partner)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rana12130&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana12130&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana12130&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -115,5 +115,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rana12130&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
