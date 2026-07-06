@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Awais Shaukat 👋</h1>
-<h3 align="center">Flutter Mobile App Developer | Software Quality Assurance</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:9C27B0,100:F72585&height=220&section=header&text=Awais%20Shaukat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Mobile%20App%20Developer%20%7C%20SQA%20Engineer&descAlignY=55&descSize=20"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9C27B0&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;REST+API+%26+Firebase+Integration+%F0%9F%94%A5;Software+Quality+Assurance+%E2%9C%85;Building+Apps+That+Ship+%F0%9F%9A%80"/>
+</p>
 
 <p align="center">
   <a href="mailto:ranaawais12363@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -7,7 +12,12 @@
   <a href="https://www.fiverr.com/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Remote%20Work-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20Pakistan-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:F72585&height=4&section=header" width="100%"/></p>
 
 ## 💫 About Me
 
@@ -22,7 +32,7 @@ I graduated in Information Engineering Technology (CGPA 3.66/4.0) and currently 
 - 🛠️ Taking features from design through testing to production
 - 🌍 Available for remote, hybrid, or on-site roles
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:F72585&height=4&section=header" width="100%"/></p>
 
 ## 💼 Experience
 
@@ -35,14 +45,14 @@ I graduated in Information Engineering Technology (CGPA 3.66/4.0) and currently 
 - Contributed 2 core modules to the Targets Plus app — published on Google Play Store and App Store
 - Performed functional, regression, and API testing across releases
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:F72585&height=4&section=header" width="100%"/></p>
 
 ## 🚀 Featured Project
 
 **MY NSU App** — Official University App *(Final Year Project, 2024–2025)*
 Built the official app for National Skills University, integrating LMS/UMS via REST APIs, with SGPA/CGPA calculators, a 360° campus map, and a Dialogflow-powered chatbot.
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:F72585&height=4&section=header" width="100%"/></p>
 
 ## 💻 Tech Stack
 
@@ -60,14 +70,14 @@ Built the official app for National Skills University, integrating LMS/UMS via R
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:F72585&height=4&section=header" width="100%"/></p>
 
 ## 📜 Certifications
 
 - 🎓 [Introduction to Flutter](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIyMjk3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODgzMjIxN18zMDYyODg0MTc1NTgxMDIyODkxMy5wbmciLCJ1c2VybmFtZSI6Ik11aGFtbWFkIEF3YWlzIFNoYXVrYXQgIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4951%2FIntroduction%2520to%2520Flutter%2520Course%2520Online%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1487126352573743108&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVT64MjUw1Ti03DEuyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAFUHZI5BAAAA) — *Simplilearn*
 - 🎓 [Prompt Engineering with GitHub Copilot](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NzU3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODgzMDQ3MV85MjEzMzk0MTc1NTc4OTgyNjgzMi5wbmciLCJ1c2VybmFtZSI6Ik11aGFtbWFkIEF3YWlzIFNoYXVrYXQifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F7750%2FIntroduction%2520to%2520Prompt%2520Engineering%2520with%2520GitHub%2520Copilot%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1487126352573743108&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVL7T0qkpyLk0yDEuyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAP9dccpBAAAA) — *Simplilearn (Microsoft Partner)*
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:F72585&height=4&section=header" width="100%"/></p>
 
 ## 📫 Contact Me
 
@@ -79,3 +89,7 @@ Built the official app for National Skills University, integrating LMS/UMS via R
 </p>
 
 <p align="center"><i>💡 Open to remote Flutter Developer opportunities worldwide</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:9C27B0,100:2196F3&height=120&section=footer"/>
+</p>
