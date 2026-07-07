@@ -22,11 +22,11 @@ Hi, I'm Awais Shaukat — a Flutter mobile app developer focused on building cle
 I graduated in Information Engineering Technology (CGPA 3.66/4.0) and currently work as a Flutter Developer & SQA at IVY Interactive Solutions, where I've delivered a company-wide Employee Management App adopted by 50+ employees.
 
 **Key strengths:**
-- 📱 Building and shipping cross-platform Flutter apps used in real production environments
-- 🔗 REST API integration, Firebase (Firestore, FCM, Auth), and clean state management with Provider/Riverpod
-- 🧪 Manual testing, API testing, regression testing, and bug tracking
-- 🛠️ Taking features from design through testing to production
-- 🌍 Available for remote, hybrid, or on-site roles
+- Building and shipping cross-platform Flutter apps used in real production environments
+- REST API integration, Firebase (Firestore, FCM, Auth), and clean state management with Provider/Riverpod
+- Manual testing, API testing, regression testing, and bug tracking
+- Taking features from design through testing to production
+- Available for remote, hybrid, or on-site roles
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAFBD,50:C471ED,100:12D8FA&height=4&section=header" width="100%"/></p>
 
@@ -43,7 +43,7 @@ I graduated in Information Engineering Technology (CGPA 3.66/4.0) and currently 
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAFBD,50:C471ED,100:12D8FA&height=4&section=header" width="100%"/></p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **IVY Employee Management App** — *IVY Interactive Solutions (Sep 2025 – Present)*
 Company-wide Flutter app adopted by 50+ employees, featuring a real-time attendance system, in-app employee chat via Firebase Firestore, and a Project Management module converted from a full web-based system into a native mobile experience.
