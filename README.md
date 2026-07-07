@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Rana12130?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_Projects-FF6B9D?style=for-the-badge"/></a>
-  <a href="https://github.com/Rana12130/Rana12130/blob/main/projects/cv/Awais_Shaukat_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Resume%2FCV-4EA8DE?style=for-the-badge"/></a>
+  <a href="https://github.com/Rana12130/Rana12130/blob/main/projects/CV/Awais_Shaukat_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Resume%2FCV-4EA8DE?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2EC4B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
