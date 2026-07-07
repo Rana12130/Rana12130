@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,50:C471ED,100:12D8FA&height=220&section=header&text=Awais%20Shaukat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Mobile%20App%20Developer%20%7C%20Software%20Quality%20Assurance&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,50:C471ED,100:12D8FA&height=260&section=header&text=Awais%20Shaukat&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Flutter%20Mobile%20App%20Developer%20%7C%20Software%20Quality%20Assurance&descAlignY=50&descSize=19" width="100%"/>
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ranaawais12363@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4EA8DE?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-2EC4B6?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://github.com/Rana12130?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_Projects-FF6B9D?style=for-the-badge"/></a>
+  <a href="https://github.com/Rana12130/Rana12130/blob/main/projects/cv/Awais_Shaukat_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Resume%2FCV-4EA8DE?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2EC4B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -47,7 +47,13 @@ I graduated in Information Engineering Technology (CGPA 3.66/4.0) and currently 
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAFBD,50:C471ED,100:12D8FA&height=4&section=header" width="100%"/></p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+**IVY Employee Management App** — *IVY Interactive Solutions (Sep 2025 – Present)*
+Company-wide Flutter app adopted by 50+ employees, featuring a real-time attendance system, in-app employee chat via Firebase Firestore, and a Project Management module converted from a full web-based system into a native mobile experience.
+
+**Targets Plus App** — *Published on Google Play Store & App Store*
+Contributed UI design and 2 core modules — **Project Management** and **Attendance Check-in/Check-out** — to this production mobile app.
 
 **MY NSU App** — Official University App *(Final Year Project, 2024–2025)*
 Built the official app for National Skills University, integrating LMS/UMS via REST APIs, with SGPA/CGPA calculators, a 360° campus map, and a Dialogflow-powered chatbot.
