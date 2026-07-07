@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C471ED&center=true&vCenter=true&width=600&lines=Flutter+Developer;REST+API+%26+Firebase+Integration;Software+Quality+Assurance;Building+Production-Ready+Mobile+Apps"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rana12130?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂_Projects-FF6B9D?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2EC4B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Remote%20Work-FFB4A2?style=for-the-badge"/>
